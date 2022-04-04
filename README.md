@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](Pictures/header.png)
+"![Header](Pictures/header.png)"
