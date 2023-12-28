@@ -1,4 +1,4 @@
-![Header](./gitHubHeader.png)
+![Header](./github-header-image (2).png)
 
 
 ### I am a software developer who enjoys connecting the dots, be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in databases and different programming languages such as Java, C++, and Python.
