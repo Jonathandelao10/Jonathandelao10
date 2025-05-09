@@ -1,7 +1,8 @@
 ![Header](./gitHubHeader3.png)
 
 
-### I am a software developer who enjoys connecting the dots, be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in databases and different programming languages such as Java, JavaScript, CSS, C++, and Python.
+### Hi, I'm Jonathan De la O, a recent graduate with a degree in Computer Science.I am passionate about Artificial Intelligence, Machine Learning, Data Science, and Business Intelligence. I thrive on solving complex problems, leveraging data-driven insights, and developing innovative solutions that bridge technology and business.
 
+### Through personal projects and internships, I've gained hands-on experience in diverse aspects of development, showcased in my portfolio at https://jonathandelao10.github.io/My-New-Portfolio-Website/
 
-### My passion lies in solving problems with tailored data and communicating complex ideas to non-technical stakeholders. I am able to jump across verticals to deliver high-performing development solutions. I love learning new things and I am always looking to challenge myself.
+### As a former student-athlete, I bring discipline, adaptability, and a team-driven mindset to every challenge. Passionate about innovation and continuous learning, I am eager to contribute to impactful projects at the intersection of technology, user needs, and business strategy.
