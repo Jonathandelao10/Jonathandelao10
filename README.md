@@ -1,4 +1,4 @@
-![Header](./gitHubHeader4.png)
+![Header](./gitHubHeader6.png)
 
 
 ### Hi, I'm Jonathan De la O, a recent graduate with a degree in Computer Science. I am passionate about Artificial Intelligence, Machine Learning, Data Science, and Business Intelligence. I thrive on solving complex problems, leveraging data-driven insights, and developing innovative solutions that bridge technology and business.
